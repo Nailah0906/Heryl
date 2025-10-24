@@ -24,7 +24,7 @@ Apakah kamu akan menjadi pahlawan sejati… atau hanya pemimpi biasa?
 ## **🧠 Tim Pengembang**
 |Nama|Peran|
 |-----|-----|
-|Naila|Desain dan Animasi|
+|Nailah|Desain dan Animasi|
 |Nabila|UI/UX desain|
 |Bella|Database|
 |Umri|Developer|
